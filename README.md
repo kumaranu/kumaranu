@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaranu" alt="kumaranu" /></a> </p>
 
-- 🔭 I’m currently working on [machine learning-based transition state optimization](https://github.com/kumaranu/lag_opt_ts)
+- 🔭 I’m currently working on [machine learning-based transition state optimization](https://github.com/kumaranu/lag_opt_ts).
 
-- 👯 I’m looking to collaborate on [a drug discovery related project that uses machine learning-based potential to incorporate kinetic effects](https://github.com/kumaranu/quacc_tests)
+- 👯 I’m looking to collaborate on [a drug discovery-related project that uses machine learning-based potential to incorporate kinetic effects](https://github.com/kumaranu/quacc_tests).
 
 - 👨‍💻 Most of my projects are available at [https://github.com/kumaranu](https://github.com/kumaranu) but some are not public due to proprietary issues.
 
-- 📫 You can reach out to me via **kumaranu@lbl.gov**
+- 📫 You can reach out to me via **kumaranu@lbl.gov**.
 
-- 📄 Know about my experiences by checking out my [resume](https://anupkumar.tiiny.site/)
+- 📄 Know about my experiences by checking out my [resume](https://anupkumar.tiiny.site/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
