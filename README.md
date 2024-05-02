@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaranu&label=Profile%20views&color=0e75b6&style=flat" alt="kumaranu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaranu" alt="kumaranu" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaranu" alt="kumaranu" /></a> </p>-->
 
 - 🔭 I’m currently working on [machine learning-based transition state optimization](https://github.com/kumaranu/lag_opt_ts). The animation shown above depicts one of the reactions I calculated the transition states for. For non-chemists, the problem here is to find a saddle point in a 42-dimensional space.
 
