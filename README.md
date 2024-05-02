@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anup Kumar</h1>
-<h3 align="center">A computational chemist
+<h3 align="center">A computational chemist</h3>
 
-![bandicam2024-05-0119-27-06-567-ezgif com-crop (1)](https://github.com/kumaranu/kumaranu/assets/17169648/ddd19add-77ac-45f9-af6e-4988ee69a001)
+<div align="center">
+  <img src="https://github.com/kumaranu/kumaranu/assets/17169648/ddd19add-77ac-45f9-af6e-4988ee69a001" width="300">
+</div>
 
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaranu&label=Profile%20views&color=0e75b6&style=flat" alt="kumaranu" /> </p>
 
