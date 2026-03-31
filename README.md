@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup Kumar</h1> <h3 align="center">Computational Chemist turned Quantum Software Engineer</h3> <div align="center"> <img src="https://github.com/kumaranu/kumaranu/assets/17169648/ddd19add-77ac-45f9-af6e-4988ee69a001" width="300"> </div> <p align="left"> <img src="https://komarev.com/ghpvc/?username=qci-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="qci-kumar" /> </p>
+
 🔭 Currently, I'm a Senior Quantum Software Engineer at D-Wave, where I help build cutting-edge tools for quantum computing.
 
 🧪 The animation above shows one of the reactions I calculated during my postdoc at Lawrence Berkeley National Lab. For context, this involved finding a saddle point in a challenging 42-dimensional space.
