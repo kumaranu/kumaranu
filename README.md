@@ -4,7 +4,7 @@
 
 🧪 The animation above shows one of the reactions I calculated during my postdoc at Lawrence Berkeley National Lab. For context, this involved finding a saddle point in a challenging 42-dimensional space.
 
-👨‍💻 Most of my personal projects are available here, but my work at Quantum Circuits Inc can be found under [my company's GitHub account](https://github.com/qci-kumar), though it is proprietary.
+👨‍💻 Most of my personal projects are available here, but my work at Quantum Circuits Inc and D-Wave can be found under [my company's GitHub account](https://github.com/qci-kumar), though it is proprietary.
 
 📫 Feel free to reach out via akumar2@dwavesystems.com.
 
